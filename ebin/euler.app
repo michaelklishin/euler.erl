@@ -5,4 +5,4 @@
               {applications,[kernel,stdlib]},
               {mod,{euler_app,[]}},
               {env,[]},
-              {modules,[euler_app,euler_sup]}]}.
+              {modules,[euler,euler_app,euler_sup]}]}.
