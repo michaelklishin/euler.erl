@@ -1,0 +1,8 @@
+{application,euler,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{euler_app,[]}},
+              {env,[]},
+              {modules,[euler_app,euler_sup]}]}.
