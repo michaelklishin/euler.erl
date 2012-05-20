@@ -36,4 +36,3 @@ problem1_test() ->
     ?assert(4613732 == Result).
 
 -endif.
-
